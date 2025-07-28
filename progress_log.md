@@ -77,6 +77,7 @@ This log summarizes the initial setup and content development for the Kgimd bran
 *   Added another sample client case study: `content/clients/non-profit-awareness-campaign.md`.
 *   Added another sample blog post: `content/blog/the-role-of-ai-in-personalizing-brand-experiences.md`.
 *   Added another sample client case study: `content/clients/restaurant-brand-revitalization.md`.
+*   Added another sample blog post: `content/blog/the-art-of-crisis-communications-protecting-your-brand.md`.
 
 ---
 

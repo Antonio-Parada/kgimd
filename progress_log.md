@@ -41,12 +41,13 @@ This log summarizes the initial setup and content development for the Kgimd bran
     *   Packaging Design
     *   Brand Storytelling
 *   Regenerated service markdown files using `scripts/generate_services.py`.
+*   Added a sample client case study: `content/clients/nyc-bakery-branding.md`.
 
 ---
 
 ## Next Steps:
 
-*   Populate `content/clients/` with case studies.
+*   Populate `content/clients/` with more case studies.
 *   Populate `content/blog/` with articles.
 *   Further develop `data/services.yaml` with more service entries.
 *   Refine Hugo templates and theme customization.

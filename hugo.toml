@@ -2,6 +2,7 @@ baseURL = 'https://Antonio-Parada.github.io/kgimd/'
 languageCode = 'en-us'
 title = 'Kgimd Branding Agency'
 theme = 'congo'
+uglyURLs = true
 
 [menu]
   [[menu.main]]

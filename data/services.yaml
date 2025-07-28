@@ -177,3 +177,123 @@
     - "Reputation Management"
   why_us: |
     We provide strategic PR solutions that elevate your brand's voice and reach. Our AI tools help us identify optimal media opportunities and track campaign effectiveness, while our decentralized model allows us to access specialized PR talent with deep industry knowledge. Shape public perception and build lasting trust with a proactive and impactful PR strategy.
+
+- title: "Market Research & Analysis"
+  description: "Gain deep insights into your target market, industry trends, and competitive landscape."
+  category: "Strategy & Consulting"
+  slug: "market-research-analysis"
+  overview: |
+    Our Market Research & Analysis service provides comprehensive insights to inform your branding and marketing strategies. We utilize a blend of qualitative and quantitative research methods, enhanced by AI-driven data analysis, to uncover market opportunities, consumer behaviors, and competitive advantages. Our findings empower you to make data-backed decisions that drive growth.
+  features:
+    - "Consumer Behavior Analysis"
+    - "Market Trend Identification"
+    - "Competitive Landscape Mapping"
+    - "SWOT Analysis"
+    - "Opportunity & Threat Assessment"
+  why_us: |
+    We transform raw data into actionable intelligence. Our AI tools accelerate the analysis of vast datasets, providing you with timely and precise market insights. Through our decentralized network of research specialists, we offer a global perspective and tailored research methodologies, ensuring your brand strategy is built on a solid foundation of understanding.
+
+- title: "Competitor Analysis"
+  description: "Understand your competitors' strengths, weaknesses, and strategies to gain a competitive edge."
+  category: "Strategy & Consulting"
+  slug: "competitor-analysis"
+  overview: |
+    Our Competitor Analysis service provides a detailed examination of your key rivals, helping you identify their branding strategies, market positioning, and operational tactics. We leverage AI for automated data collection and analysis of competitor activities, enabling you to pinpoint opportunities for differentiation and develop superior strategies. This service is crucial for maintaining a competitive edge in dynamic markets.
+  features:
+    - "Competitor Brand Audit"
+    - "Marketing & Communication Analysis"
+    - "Product/Service Offering Comparison"
+    - "SWOT Analysis of Competitors"
+    - "Market Share & Positioning Assessment"
+  why_us: |
+    We provide a clear picture of your competitive landscape, empowering you to outmaneuver rivals. Our AI tools efficiently process large volumes of competitor data, delivering actionable insights. Our asset-light model allows us to deploy specialized analysts who provide in-depth, strategic recommendations tailored to your unique market challenges.
+
+- title: "Brand Audit & Assessment"
+  description: "Evaluate your current brand's health, consistency, and effectiveness across all touchpoints."
+  category: "Strategy & Consulting"
+  slug: "brand-audit-assessment"
+  overview: |
+    Our Brand Audit & Assessment service offers a comprehensive review of your existing brand identity, messaging, and market perception. We analyze internal and external brand touchpoints, leveraging AI for sentiment analysis and consistency checks. This service provides a clear understanding of your brand's strengths, weaknesses, and areas for improvement, forming the basis for strategic brand development.
+  features:
+    - "Internal & External Brand Perception Analysis"
+    - "Brand Consistency Review"
+    - "Competitor Benchmarking"
+    - "Brand Messaging Effectiveness"
+    - "Recommendations for Brand Optimization"
+  why_us: |
+    We provide an objective and data-driven assessment of your brand's current state. Our AI tools efficiently process vast amounts of brand data, identifying patterns and inconsistencies. Our decentralized network of brand strategists offers expert insights and actionable recommendations, ensuring your brand is aligned with your business goals and resonates with your target audience.
+
+- title: "Copywriting & Messaging"
+  description: "Craft compelling and persuasive copy that captures your brand's voice and converts."
+  category: "Content Creation"
+  slug: "copywriting-messaging"
+  overview: |
+    Our Copywriting & Messaging service focuses on developing clear, concise, and impactful written content that resonates with your target audience and drives desired actions. We specialize in crafting brand narratives, website copy, marketing materials, and ad copy, leveraging AI for tone analysis, keyword optimization, and audience engagement insights. Our network of professional copywriters ensures your message is always on-brand and effective.
+  features:
+    - "Brand Voice & Tone Development"
+    - "Website Content Creation"
+    - "Marketing Collateral Copy (Brochures, Flyers)"
+    - "Ad Copy & Slogans"
+    - "SEO-Optimized Content"
+  why_us: |
+    We deliver words that work. Our AI tools help us refine messaging for maximum impact and ensure consistency across all platforms, while our asset-light model allows us to access specialized copywriters with expertise in various industries. From compelling headlines to persuasive calls-to-action, we ensure your brand's message is heard and acted upon.
+
+- title: "Photography & Image Sourcing"
+  description: "Acquire high-quality, on-brand imagery that elevates your visual communication."
+  category: "Visual Content"
+  slug: "photography-image-sourcing"
+  overview: |
+    Our Photography & Image Sourcing service provides access to a vast library of high-quality, royalty-free images or custom photography solutions tailored to your brand's aesthetic and messaging. We leverage AI for image recognition, style matching, and trend analysis to ensure your visuals are impactful and relevant. Our network of professional photographers and image curators ensures diverse and compelling visual assets.
+  features:
+    - "Custom Photography Shoots"
+    - "Stock Image Curation & Licensing"
+    - "Image Editing & Retouching"
+    - "Brand-Consistent Visual Styling"
+    - "Image Optimization for Web & Print"
+  why_us: |
+    We ensure your brand's visual story is told with stunning clarity and impact. Our AI tools help us identify the most effective imagery for your target audience, while our asset-light model allows us to access specialized photographers and image libraries globally. Elevate your brand's visual presence with imagery that captivates and converts.
+
+- title: "Illustration & Custom Graphics"
+  description: "Create unique and engaging custom illustrations and graphics that bring your brand to life."
+  category: "Graphic Design"
+  slug: "illustration-custom-graphics"
+  overview: |
+    Our Illustration & Custom Graphics service offers bespoke visual assets that differentiate your brand and communicate complex ideas with clarity and creativity. From custom icons and infographics to character design and digital art, we leverage AI for style exploration and rapid prototyping. Our network of talented illustrators ensures a unique and memorable visual language for your brand.
+  features:
+    - "Custom Iconography"
+    - "Infographic Illustrations"
+    - "Character Design"
+    - "Digital Art & Concepts"
+    - "Brand-Consistent Visual Style"
+  why_us: |
+    We transform ideas into captivating visuals. Our AI tools assist in exploring diverse artistic styles and accelerating the creative process, while our asset-light model allows us to access specialized illustrators globally. Stand out from the crowd with custom graphics that tell your brand's story in a truly unique and engaging way.
+
+- title: "UI/UX Design"
+  description: "Design intuitive and engaging user interfaces and experiences for digital products."
+  category: "Web Solutions"
+  slug: "ui-ux-design"
+  overview: |
+    Our UI/UX Design service focuses on creating user-centric digital experiences that are both aesthetically pleasing and highly functional. We conduct thorough user research, wireframing, prototyping, and usability testing, leveraging AI for user behavior analysis and design optimization. Our network of UI/UX designers ensures your digital products are intuitive, efficient, and delightful to use.
+  features:
+    - "User Research & Persona Development"
+    - "Wireframing & Prototyping"
+    - "Information Architecture"
+    - "Usability Testing"
+    - "Responsive Design for All Devices"
+  why_us: |
+    We design digital experiences that drive engagement and conversion. Our AI tools provide deep insights into user behavior, enabling us to create highly optimized interfaces. Our asset-light model allows us to access specialized UI/UX talent globally, ensuring your digital products are designed for success in today's competitive landscape.
+
+- title: "Mobile App Design"
+  description: "Craft intuitive and visually stunning mobile app interfaces for iOS and Android."
+  category: "Web Solutions"
+  slug: "mobile-app-design"
+  overview: |
+    Our Mobile App Design service specializes in creating engaging and user-friendly interfaces for native iOS and Android applications. We focus on delivering seamless user experiences (UX) and visually appealing user interfaces (UI) that align with your brand identity and app functionality. We leverage AI for user flow optimization and design pattern analysis, ensuring your app stands out in the crowded app stores.
+  features:
+    - "iOS & Android UI/UX Design"
+    - "Wireframing & Prototyping"
+    - "User Flow & Interaction Design"
+    - "App Icon & Splash Screen Design"
+    - "Usability Testing for Mobile"
+  why_us: |
+    We design mobile apps that are not only beautiful but also highly intuitive and effective. Our AI tools help us optimize user journeys and identify best practices in mobile design, while our asset-light model allows us to access specialized mobile app designers globally. Launch your app with confidence, knowing its design is optimized for user adoption and retention.

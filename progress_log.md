@@ -27,6 +27,8 @@ This log summarizes the initial setup and content development for the Kgimd bran
 *   New static asset directories created: `static/images/`, `static/assets/`.
 *   `scripts/` directory created and `generate_services.py` moved.
 *   Archetypes created for `clients` and `blog` content types.
+*   Created list and single layouts for `clients` (`layouts/clients/list.html`, `layouts/clients/single.html`).
+*   Created list and single layouts for `blog` (`layouts/blog/list.html`, `layouts/blog/single.html`).
 
 ### Version Control & Deployment:
 *   Git repository initialized and configured.

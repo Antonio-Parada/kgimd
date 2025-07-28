@@ -1,0 +1,15 @@
+<section class="client-success-section">
+  <div class="container">
+    <h2>Client Success Stories</h2>
+    <div class="client-grid">
+      {{ range first 2 (where .Site.RegularPages "Section" "clients") }}
+      <div class="client-item">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Params.client_name }} - {{ .Params.industry }}</p>
+        <p>{{ .Params.results }}</p>
+      </div>
+      {{ end }}
+    </div>
+    <a href="/clients/" class="btn btn-tertiary">Explore All Case Studies</a>
+  </div>
+</section>

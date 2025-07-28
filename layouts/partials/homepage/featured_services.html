@@ -1,0 +1,14 @@
+<section class="featured-services-section">
+  <div class="container">
+    <h2>Our Featured Services</h2>
+    <div class="service-grid">
+      {{ range first 3 (where .Site.Data.services "category" "Digital Marketing") }}
+      <div class="service-item">
+        <h3><a href="/services/{{ .slug }}/">{{ .title }}</a></h3>
+        <p>{{ .description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    <a href="/services/" class="btn btn-tertiary">View All Services</a>
+  </div>
+</section>

@@ -82,11 +82,22 @@ This log summarizes the initial setup and content development for the Kgimd bran
 *   Added another sample blog post: `content/blog/the-art-of-crisis-communications-protecting-your-brand.md`.
 *   Added another sample blog post: `content/blog/the-power-of-visual-storytelling-in-branding.md`.
 
+## Homepage Development (July 28, 2025)
+
+*   Created `layouts/index.html` for the custom homepage layout.
+*   Created modular partials for homepage sections:
+    *   `layouts/partials/homepage/hero.html`
+    *   `layouts/partials/homepage/about_us.html`
+    *   `layouts/partials/homepage/featured_services.html`
+    *   `layouts/partials/homepage/client_success.html`
+    *   `layouts/partials/homepage/latest_insights.html`
+    *   `layouts/partials/homepage/contact_cta.html`
+
 ---
 
 ## Next Steps:
 
 *   Populate `content/clients/` with more case studies.
 *   Populate `content/blog/` with more articles.
-*   Further develop `data/services.2a68a5f` with more service entries.
+*   Further develop `data/services.yaml` with more service entries.
 *   Refine Hugo templates and theme customization.

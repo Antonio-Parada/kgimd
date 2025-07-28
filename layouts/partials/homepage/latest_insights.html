@@ -1,0 +1,14 @@
+<section class="latest-insights-section">
+  <div class="container">
+    <h2>Latest Insights from Our Blog</h2>
+    <div class="blog-grid">
+      {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+      <div class="blog-item">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Params.description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    <a href="/blog/" class="btn btn-tertiary">Read Our Blog</a>
+  </div>
+</section>

@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Kgimd Branding Agency'
+theme = 'congo'
+
+[menu]
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 10

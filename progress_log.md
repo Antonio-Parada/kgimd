@@ -48,6 +48,7 @@ This log summarizes the initial setup and content development for the Kgimd bran
 *   Added a sample client case study: `content/clients/nyc-bakery-branding.md`.
 *   Added a sample blog post: `content/blog/the-future-of-branding-ai-and-decentralization.md`.
 *   Added another sample client case study: `content/clients/tech-startup-rebranding.md`.
+*   Added another sample blog post: `content/blog/leveraging-ai-for-data-driven-branding.md`.
 
 ---
 

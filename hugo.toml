@@ -9,3 +9,13 @@ theme = 'congo'
     name = "Services"
     url = "/services/"
     weight = 10
+  [[menu.main]]
+    identifier = "clients"
+    name = "Clients"
+    url = "/clients/"
+    weight = 20
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 30

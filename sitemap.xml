@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://example.org/archetypes/</loc>
+            <lastmod>2025-07-28T18:36:10-04:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/</loc>
+            <lastmod>2025-07-28T18:36:10-04:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/about/</loc>
+            <lastmod>2025-07-28T18:35:34-04:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/services/brand-identity-development/</loc>
+            <lastmod>2025-07-28T18:39:15+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/services/logo-design/</loc>
+            <lastmod>2025-07-28T18:39:15+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/services/seo-optimization/</loc>
+            <lastmod>2025-07-28T18:39:15+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/services/</loc>
+            <lastmod>2025-07-28T18:39:15+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/services/social-media-management/</loc>
+            <lastmod>2025-07-28T18:39:15+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>

@@ -75,6 +75,7 @@ This log summarizes the initial setup and content development for the Kgimd bran
 *   Added another sample client case study: `content/clients/fashion-brand-digital-transformation.md`.
 *   Added another sample blog post: `content/blog/the-importance-of-ui-ux-in-brand-perception.md`.
 *   Added another sample client case study: `content/clients/non-profit-awareness-campaign.md`.
+*   Added another sample blog post: `content/blog/the-role-of-ai-in-personalizing-brand-experiences.md`.
 
 ---
 

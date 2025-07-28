@@ -33,6 +33,15 @@ This log summarizes the initial setup and content development for the Kgimd bran
 *   All changes committed and pushed to `https://github.com/Antonio-Parada/kgimd`.
 *   Site successfully built locally.
 
+## Content Expansion (July 28, 2025)
+
+*   Added new service entries to `data/services.yaml`:
+    *   Content Marketing Strategy
+    *   Website Design & Development
+    *   Packaging Design
+    *   Brand Storytelling
+*   Regenerated service markdown files using `scripts/generate_services.py`.
+
 ---
 
 ## Next Steps:

@@ -40,6 +40,10 @@ This log summarizes the initial setup and content development for the Kgimd bran
     *   Website Design & Development
     *   Packaging Design
     *   Brand Storytelling
+    *   Email Marketing Campaigns
+    *   Video Production & Editing
+    *   Infographic Design
+    *   Public Relations Strategy
 *   Regenerated service markdown files using `scripts/generate_services.py`.
 *   Added a sample client case study: `content/clients/nyc-bakery-branding.md`.
 *   Added a sample blog post: `content/blog/the-future-of-branding-ai-and-decentralization.md`.

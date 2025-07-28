@@ -280,6 +280,7 @@
     - "Information Architecture"
     - "Usability Testing"
     - "Responsive Design for All Devices"
+    - "Accessibility Compliance"
   why_us: |
     We design digital experiences that drive engagement and conversion. Our AI tools provide deep insights into user behavior, enabling us to create highly optimized interfaces. Our asset-light model allows us to access specialized UI/UX talent globally, ensuring your digital products are designed for success in today's competitive landscape.
 
@@ -295,5 +296,96 @@
     - "User Flow & Interaction Design"
     - "App Icon & Splash Screen Design"
     - "Usability Testing for Mobile"
+    - "Performance Optimization for Mobile"
   why_us: |
     We design mobile apps that are not only beautiful but also highly intuitive and effective. Our AI tools help us optimize user journeys and identify best practices in mobile design, while our asset-light model allows us to access specialized mobile app designers globally. Launch your app with confidence, knowing its design is optimized for user adoption and retention.
+
+- title: "Brand Positioning"
+  description: "Define your brand's unique place in the market and in the minds of your target audience."
+  category: "Brand Strategy & Consulting"
+  slug: "brand-positioning"
+  overview: |
+    Our Brand Positioning service helps you articulate what makes your brand distinct and desirable to your target market. We conduct in-depth market analysis, competitor benchmarking, and audience segmentation, leveraging AI to identify white space opportunities and optimal positioning strategies. This service is foundational for building a strong, differentiated brand that resonates with consumers.
+  features:
+    - "Market Analysis & Segmentation"
+    - "Competitor Positioning Mapping"
+    - "Unique Value Proposition Development"
+    - "Brand Archetype Identification"
+    - "Positioning Statement Creation"
+  why_us: |
+    We help you carve out a unique and defensible position in the market. Our AI tools provide deep insights into market dynamics and consumer psychology, enabling us to craft positioning strategies that drive competitive advantage. Our decentralized network of brand strategists ensures a global perspective and tailored solutions for your specific industry and audience.
+
+- title: "Naming & Tagline Development"
+  description: "Create memorable and impactful names and taglines that capture your brand's essence."
+  category: "Brand Strategy & Consulting"
+  slug: "naming-tagline-development"
+  overview: |
+    Our Naming & Tagline Development service specializes in crafting distinctive and legally viable names and compelling taglines that encapsulate your brand's identity and value proposition. We combine creative ideation with linguistic analysis and trademark research, leveraging AI for concept generation and linguistic optimization. Our goal is to create names and taglines that are memorable, relevant, and impactful.
+  features:
+    - "Brand Naming Workshops"
+    - "Tagline & Slogan Creation"
+    - "Linguistic & Cultural Analysis"
+    - "Trademark & Domain Availability Checks"
+    - "Audience Testing & Validation"
+  why_us: |
+    We deliver names and taglines that resonate and stand the test of time. Our AI tools assist in generating a wide range of creative options and analyzing their potential impact, while our asset-light model allows us to access specialized linguists and legal experts globally. Ensure your brand's first impression is a lasting one with a name and tagline that truly speaks volumes.
+
+- title: "Paid Search (PPC) Management"
+  description: "Maximize your ROI with expertly managed pay-per-click advertising campaigns."
+  category: "Digital Advertising"
+  slug: "paid-search-ppc-management"
+  overview: |
+    Our Paid Search (PPC) Management service designs, implements, and optimizes highly effective pay-per-click advertising campaigns across platforms like Google Ads and Bing Ads. We leverage AI for keyword research, bid management, and ad copy optimization, ensuring your ads reach the right audience at the right time and drive maximum conversions. Our certified PPC specialists continuously monitor and refine campaigns for optimal performance.
+  features:
+    - "Keyword Research & Selection"
+    - "Ad Copy Creation & A/B Testing"
+    - "Bid Management & Optimization"
+    - "Landing Page Optimization Recommendations"
+    - "Performance Tracking & Reporting"
+  why_us: |
+    We deliver highly targeted and cost-efficient PPC campaigns that generate immediate results. Our AI tools provide real-time insights into campaign performance and automate optimizations, while our asset-light model allows us to access specialized PPC experts globally. Drive qualified traffic and maximize your advertising spend with campaigns built for conversion.
+
+- title: "Social Media Advertising"
+  description: "Reach and engage your target audience on social platforms with strategic ad campaigns."
+  category: "Digital Advertising"
+  slug: "social-media-advertising"
+  overview: |
+    Our Social Media Advertising service creates and manages compelling ad campaigns across major social media platforms like Facebook, Instagram, LinkedIn, and TikTok. We leverage AI for audience targeting, ad creative optimization, and campaign performance analysis, ensuring your ads resonate with specific demographics and drive desired actions. Our social media advertising specialists craft campaigns that deliver measurable results and build brand awareness.
+  features:
+    - "Audience Targeting & Segmentation"
+    - "Ad Creative Development (Image, Video, Carousel)"
+    - "Campaign Setup & Management"
+    - "A/B Testing & Optimization"
+    - "Performance Reporting & ROI Analysis"
+  why_us: |
+    We help you cut through the noise on social media and connect directly with your ideal customers. Our AI tools provide deep insights into social media trends and audience behavior, enabling highly effective ad placements. Our asset-light model allows us to access specialized social media advertisers globally, ensuring your campaigns are always optimized for maximum impact and return.
+
+- title: "Marketing Analytics & Reporting"
+  description: "Transform raw marketing data into actionable insights for continuous improvement."
+  category: "Analytics & Reporting"
+  slug: "marketing-analytics-reporting"
+  overview: |
+    Our Marketing Analytics & Reporting service provides comprehensive data analysis and clear, actionable reports on your marketing performance. We integrate data from various sources (website, social media, ads, CRM), leveraging AI for pattern recognition, predictive modeling, and anomaly detection. Our goal is to help you understand what's working, what's not, and where to allocate your resources for maximum impact.
+  features:
+    - "Data Integration & Dashboard Creation"
+    - "Performance Metric Tracking (KPIs)"
+    - "Campaign Performance Analysis"
+    - "Audience Behavior Insights"
+    - "Customized Reporting & Recommendations"
+  why_us: |
+    We turn your marketing data into your most powerful asset. Our AI tools automate data processing and identify key trends, providing you with real-time, actionable insights. Our decentralized network of data analysts and strategists ensures you receive expert interpretation and clear recommendations, empowering you to make smarter marketing decisions and drive continuous growth.
+
+- title: "ROI Measurement & Optimization"
+  description: "Quantify the return on your marketing investments and optimize for maximum profitability."
+  category: "Analytics & Reporting"
+  slug: "roi-measurement-optimization"
+  overview: |
+    Our ROI Measurement & Optimization service focuses on quantifying the financial return of your marketing and branding efforts. We establish clear metrics, track performance against business objectives, and leverage AI for attribution modeling and predictive analytics to identify the most profitable channels and strategies. This service ensures your marketing spend is efficient and directly contributes to your bottom line.
+  features:
+    - "Attribution Modeling"
+    - "Cost-Per-Acquisition (CPA) Analysis"
+    - "Customer Lifetime Value (CLTV) Calculation"
+    - "Marketing Mix Modeling"
+    - "Optimization Recommendations for Profitability"
+  why_us: |
+    We ensure your marketing budget is working as hard as possible for you. Our AI tools provide precise ROI calculations and identify opportunities for optimization, allowing you to allocate resources where they will generate the highest returns. Our asset-light model allows us to access specialized financial analysts and marketing strategists globally, providing you with expert guidance to maximize your profitability.
